@@ -1,2 +1,2 @@
-# abap-cp-name-values-
-Name-value Pairs
+# abap-cp-name-values
+Some common operations you might need for collections of values
